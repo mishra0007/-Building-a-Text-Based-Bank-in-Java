@@ -4,6 +4,8 @@ public class RhymeBank {
 		Scanner input = new Scanner(System.in);
 		int sentinal = 0;
 		int size = 0;
+		int size2=0;
+		//hactoberfest
 		double[] accountBalences = new double[250];
 		String[] accountNames = new String[250];
 		while(sentinal != -1){
